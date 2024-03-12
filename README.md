@@ -6,11 +6,11 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/Submit-Button-With-Smooth-Loading-Animation)](https://github.com/blank-yt/Submit-Button-With-Smooth-Loading-Animation/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/Submit-Button-With-Smooth-Loading-Animation/total.svg)](https://github.com/blank-yt/Submit-Button-With-Smooth-Loading-Animation/archive/refs/tags/Release.zip)
 
-Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/2c36ec81-21c0-4f91-a855-4e7ad3d551ce/deploy-status)](https://dashing-bombolone-373c76.netlify.app/) [`(Test it out here)`](https://dashing-bombolone-373c76.netlify.app/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://blanksite.eu/preview/f4dff9eb579baeca2e7dfd791eea057d6f9da98a/) [`(Test it out here)`](https://blanksite.eu/preview/f4dff9eb579baeca2e7dfd791eea057d6f9da98a/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/Submit-Button-With-Smooth-Loading-Animation/archive/refs/tags/Release.zip)
 - or [`Fork`](https://github.com/blank-yt/Submit-Button-With-Smooth-Loading-Animation/fork) it to your repository.
 
 ## Video
-[![Video](https://img.youtube.com/vi/GnSX9NkuXa0/0.jpg)](https://www.youtube.com/watch?v=GnSX9NkuXa0)
+<a href="https://www.youtube.com/watch?v=GnSX9NkuXa0"><img src="https://img.youtube.com/vi/GnSX9NkuXa0/maxresdefault.jpg" height="300" alt="Video not available yet"></a>
